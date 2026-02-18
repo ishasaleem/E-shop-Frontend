@@ -23,8 +23,7 @@ http://localhost:3000
 
 
 
-🔗 Screenshots
-(src/ui.PNG)
+🔗 Screenshot is in src folder
 
 
 
