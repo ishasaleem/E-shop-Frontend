@@ -1,7 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { useState } from "react";
 
-// Pages (we will create them soon)
 import Home from "./pages/Home";
 import Products from "./pages/Products";
 import ProductDetails from "./pages/ProductDetails";
@@ -11,7 +10,7 @@ import Signup from "./pages/Signup";
 import AdminDashboard from "./pages/AdminDashboard";
 import Footer from "./components/Footer";
 
-// Components (we will create Navbar next)
+
 import Navbar from "./components/Navbar";
 
 function App() {
