@@ -24,7 +24,7 @@ http://localhost:3000
 
 
 🔗 Screenshots
-![UI Screenshot](src/ui.PNG)
+(src/ui.PNG)
 
 
 
