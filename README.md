@@ -26,7 +26,14 @@ Key features include:
 
 ---
 
+## Technologies Used
+- **React.js** – Frontend library for building UI  
+- **React Router DOM** – Routing between pages  
+- **Bootstrap 5** – Styling and layout  
+- **CSS / Inline Styling** – Custom styles for dark theme and component customization  
+- **JavaScript ES6+** – Modern JS syntax and features  
 
+---
 
 ## ⚡ Installation & Setup
 
