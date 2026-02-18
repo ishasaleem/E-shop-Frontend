@@ -4,6 +4,29 @@ A modern, responsive e-commerce frontend built with **React**, **React Router**,
 
 ---
 
+## Project Overview
+E-Shop is a modern, responsive e-commerce web application built with React.js and Bootstrap.   
+Key features include:  
+- Hero section  
+- Feature highlights  
+- Dark theme compatible with a black navbar
+- -products display
+
+---
+
+## Pages / Components Implemented
+- **Home** – Hero, features, footer  
+- **Login** – Login form with validation, password toggle, and social login buttons  
+- **Signup** – Signup form with validation, password toggle, and loading state  
+- **Products,Product details** –for displaying products.
+- ***Cart**- added products to cart page
+- **Navbar** – Dark-themed navigation bar
+- **AdminDashboard**  for admin overview
+
+
+---
+
+
 
 ## ⚡ Installation & Setup
 
